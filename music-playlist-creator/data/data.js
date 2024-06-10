@@ -1,3 +1,5 @@
+export default playlists;
+
 let data = { "playlists": [
     {
       "playlistID": 0,
