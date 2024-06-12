@@ -37,7 +37,7 @@ div {
   font-size: 50px;
   color: grey;
   display: inline-block; /* Add this property for better styling */
-  position: relative; bottom: 375px;
+  position: relative; bottom: 275px;
   /*margin-bottom: 0%; */
 }
 .heart.red {

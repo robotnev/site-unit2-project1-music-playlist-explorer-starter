@@ -1,5 +1,5 @@
 // JavaSspancript for Opening and Closing the Modal
-import data from '.data.js';
+import data from './data/data.js';
 
 const gridItems = document.querySelectorAll('.grid-item');
 gridItems.forEach((item) => {
@@ -12,6 +12,7 @@ gridItems.forEach(gridItem => {
     const heart = gridItem.querySelector('#heart');
     const likeElement = gridItem.querySelector('#number');
     let numberValue = parseInt(likeElement.innerHTML);
+    console.log(heart)
     let hasClicked = false;
     heart.addEventListener('click', function() {
         if (!hasClicked) {
@@ -20,6 +21,7 @@ gridItems.forEach(gridItem => {
             clickedHeart.parentElement.classList.toggle('red');
             numberValue += 1;
             likeElement.innerHTML = numberValue;
+            clickedHeart.parentElement.classList.toggle('red');
         } else {
             const clickedHeart = this;
             clickedHeart.parentElement.classList.toggle('red');
