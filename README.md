@@ -53,8 +53,7 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
 ### Walkthrough Video
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 `ADD_EMBEDDED_CODE_HERE`
-https://drive.google.com/file/d/1jwv1Bk74rimZRnEbjxTcHhLg8ZxX_PTz/view?usp=sharing
-
+https://drive.google.com/file/d/1t25jmXpUIWjVctomaNDfvZm2CB3yeMoF/view?usp=sharing
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
